@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me:
 - 
-                    - Email: techwithchris.2006@gmail.com
-                    - Twitter: ProgChris6002
-                    - Instagram: programmerchris6002
-                    - YouTube: Tech With Chris
+Email: techwithchris.2006@gmail.com
+Twitter: ProgChris6002
+Instagram: programmerchris6002
+YouTube: Tech With Chris
 
 <!---
 TechWithChris2006/TechWithChris2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
