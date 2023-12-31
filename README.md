@@ -2,7 +2,8 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning React.tsx and TypeScript
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me
+- 📫 How to reach me:
+- 
                     - Email: techwithchris.2006@gmail.com
                     - Twitter: ProgChris6002
                     - Instagram: programmerchris6002
